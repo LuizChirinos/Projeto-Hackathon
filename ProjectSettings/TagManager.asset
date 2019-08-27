@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Instrumento
+  - jorra
+  - escova
+  - alicate
+  - obturador
+  - limpador
+  - sugador
+  - manchas
+  - caries
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - instrumento
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: cenario
+    uniqueID: 642875275
+    locked: 0
+  - name: boca
+    uniqueID: 1371990213
+    locked: 0
+  - name: lingua
+    uniqueID: 3654349177
+    locked: 0
+  - name: buchecho
+    uniqueID: 1435110969
+    locked: 0
+  - name: dentes
+    uniqueID: 2607293435
+    locked: 0
+  - name: manchas
+    uniqueID: 4238698957
+    locked: 0
+  - name: cara
+    uniqueID: 2883315987
+    locked: 0
+  - name: instrumentos
+    uniqueID: 109237667
+    locked: 0
+  - name: Relogio
+    uniqueID: 3873833331
+    locked: 0
+  - name: Ponteiro
+    uniqueID: 3105627379
+    locked: 0
+  - name: Pasta
+    uniqueID: 3271138137
+    locked: 0
+  - name: Textos
+    uniqueID: 476543781
+    locked: 0
